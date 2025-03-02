@@ -42,7 +42,7 @@ const Form = () => {
 
   return (
     <div className="p-6 max-w-lg mx-auto bg-white shadow-md rounded-lg">
-      <h1 className="text-2xl font-bold mb-4">AI PPT Generator</h1>
+      <h1 className="text-2xl font-bold mb-4">Prompt based generator</h1>
       <input
         type="text"
         placeholder="Enter a topic..."
